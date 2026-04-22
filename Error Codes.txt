@@ -1,0 +1,2 @@
+163 - Server Shutdown
+130 - Bad Connection
